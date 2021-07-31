@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'lalezar';
+    src: url('../fonts/Yekan.ttf') format('truetype');
+}
+
+.lalezar {
+    font-family: 'lalezar';
+    font-weight: normal;
+}
